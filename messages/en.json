@@ -1,0 +1,30 @@
+{
+    "Home": {
+        "title": "🐱 Miawductor",
+        "subtitle": "The world's first meow translator.",
+        "counter": "{count, plural, one {# meow translated today} other {# meows translated today}}",
+        "cta": "Register your cat →"
+    },
+    "Registro": {
+        "heading": "Register your cat 🐱",
+        "catName": "Cat's name",
+        "ownerName": "Your name",
+        "email": "Email",
+        "mood": "Usual mood",
+        "submit": "Register",
+        "moods": {
+            "curioso": "Curious",
+            "hambriento": "Hungry",
+            "molesto": "Grumpy",
+            "cariñoso": "Affectionate"
+        },
+        "errors": {
+            "minLength": "Minimum 2 characters",
+            "invalidEmail": "Invalid email"
+        }
+    },
+    "Bienvenida": {
+        "heading": "Welcome to Miawductor, {dueno}! 🎉",
+        "body": "{gato} is ready to meow in {tipo} mode."
+    }
+}

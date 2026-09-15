@@ -1,0 +1,30 @@
+{
+    "Home": {
+        "title": "🐱 Miawductor",
+        "subtitle": "El primer traductor de maullidos del mundo.",
+        "counter": "{count, plural, one {# maullido traducido hoy} other {# maullidos traducidos hoy}}",
+        "cta": "Registra a tu gato →"
+    },
+    "Registro": {
+        "heading": "Registra a tu gato 🐱",
+        "catName": "Nombre del gato",
+        "ownerName": "Tu nombre",
+        "email": "Email",
+        "mood": "Estado de ánimo habitual",
+        "submit": "Registrar",
+        "moods": {
+            "curioso": "Curioso",
+            "hambriento": "Hambriento",
+            "molesto": "Molesto",
+            "cariñoso": "Cariñoso"
+        },
+        "errors": {
+            "minLength": "Mínimo 2 caracteres",
+            "invalidEmail": "Email inválido"
+        }
+    },
+    "Bienvenida": {
+        "heading": "¡Bienvenido a Miawductor, {dueno}! 🎉",
+        "body": "{gato} ya está listo para maullar en modo {tipo}."
+    }
+}
